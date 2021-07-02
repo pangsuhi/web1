@@ -1,0 +1,46 @@
+Hyper Text Markup Language
+
+1. <strong> : 굵은글씨
+
+2. <u> : 밑줄
+
+3. <h1~6> : 제목
+
+4. <p style="margin-top:40px;"> : 단락 (태그와 태그사이의 여백)
+
+5. <img src="" width=""> :이미지 파일 업로드
+
+6. <parent> <child></child> </parent> :부모와 자식 목록
+
+    <ul> <li></li> </ul> : 목록
+
+7. <ul> : Unordered List (순서가 없는 리스트)
+   <ol> : Ordered List    (순서가 있는 리스트)
+
+8. <title> : 웹사이트 이름
+
+9. <a href="www.naver.com"> : 링크
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+paragraph : 단락
+accessibility : 접근성
+specification : 설명서
